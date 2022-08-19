@@ -1,5 +1,5 @@
 # LogicCircuit-to-HDL-or-VHDL
-A version of Eugene Lepekhin's LogicCircuit that translates LC projects to Nand2Tetris HDL or to structural VHDL or Verilog. Branched from Release_2.23.01.03 of his source located at https://dev.azure.com/evglep/LogicCircuit/_git/LogicCircuit?version=GTRelease_2.23.01.03.
+A version of Eugene Lepekhin's LogicCircuit that translates LC projects to Nand2Tetris HDL or to structural VHDL or Verilog. Branched from Release_2.23.01.03 of his source.
 
 This repository contains a modified version of Eugene Lepekhin’s LogicCircuit program that generates the “.hdl” files expected by the Hardware Simulator that is part of the Nand2Tetris tool suite created and distributed by Noam Nisan, Shimon Schocken, Mark Armbrust, and their colleagues. For better compatibility with the Nand2Tetris software, you will need to install the additional builtInChips by copying the contents of the provided builtInChips directory to
  	<N2T_install_directory>\tools\builtInChips.
